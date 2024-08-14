@@ -31,7 +31,7 @@
   "license": "pending",
   "dependencies": {
     "chai": "^4.3.7",
-    "ethers": "^5.7.2"
+    "ethers": "^6.0.0"
   },
   "devDependencies": {
     "@0xpolygonhermez/zkevm-commonjs": "github:0xPolygonHermez/zkevm-commonjs#v2.0.0-fork.5",
