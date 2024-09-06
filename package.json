@@ -30,7 +30,7 @@
   "homepage": "https://github.com/0xPolygonHermez/contracts-zkEVM#readme",
   "license": "pending",
   "dependencies": {
-    "chai": "^4.3.7",
+    "chai": "^4.3.10",
     "ethers": "^5.7.2"
   },
   "devDependencies": {
